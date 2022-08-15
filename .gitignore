@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+*.logs
+*.iml
+.idea/
+.eclipse
+.flattened-pom.xml
